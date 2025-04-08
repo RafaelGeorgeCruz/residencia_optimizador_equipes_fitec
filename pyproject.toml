@@ -1,0 +1,37 @@
+[project]
+name = "formador-de-equipes-automatica"
+version = "0.1.0"
+description = """
+Este projeto visa desenvolver uma ferramenta automática para a formação de equipes dentro da empresa Fitec.
+A solução utiliza um modelo matemático de otimização para alocar colaboradores em equipes com base em suas características,
+funções e performance. Após a alocação, agentes de Inteligência Artificial, utilizando o modelo Google Gemini 2.0 Flash, serão empregados para gerar um resumo dos currículos dos candidatos selecionados e um resumo do projeto.
+
+O objetivo principal é otimizar o processo de formação de equipes, garantindo a melhor combinação de habilidades e expertises para cada projeto, além de fornecer resumos informativos para o gerenciamento.
+"""
+authors = ["rafelcalmcruz@fitec.org.br"]
+license = { text = "MIT" } # Adicione a licença apropriada
+readme = "README.md"
+requires-python = "==3.12" # Especifique a versão mínima do Python
+
+[tool.pdm]
+package-type = "application"
+
+[tool.pdm.dev-dependencies]
+dev = []
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[project.dependencies]
+python-dotenv = "==1.1.0"
+google-generativeai = "==0.8.4"
+pandas = "==2.2.3"
+ortools = "==9.12.4544"
+matplotlib = "==3.10.1"
+openpyxl = "==3.1.5"
+
+# Adicione outras dependências do seu projeto aqui, se houver.
+
+[project.optional-dependencies]
+# Adicione dependências opcionais aqui, se houver.
