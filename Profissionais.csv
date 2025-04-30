@@ -1,21 +1,21 @@
-,Profissionais,Funcoes,Funcoes_Num,Performance,Projeto 1,Projeto 2,Projeto 3
-0,Marcelo Eihara,Arquiteto,0,9,0,1,0
-1,Fabio Arnaldo,Arquiteto,0,6,0,0,1
-2,João Ricardo,Arquiteto,0,8,1,0,0
-3,Washington Barbosa,Front-end,1,7,0,0,1
-4,Diego Oliveira,Front-end,1,9,1,1,0
-5,Rildo Pereira,Front-end,1,8,1,0,0
-6,Alessandre Martins,Back-end,2,9,0,1,0
-7,Morgana Leite,Back-end,2,7,0,0,1
-8,Paulo Hugo,Back-end,2,7,0,1,0
-9,Luiz Gustavo Magoga,Back-end,2,10,1,0,0
-10,Atahualpa Bastos,Quality Assurance,3,7,0,0,1
-11,Leonides Neto,Quality Assurance,3,9,0,1,0
-12,Letícia Queiroz,Quality Assurance,3,6,0,0,0
-13,Carlo Revoredo,Quality Assurance,3,6,0,0,0
-14,Rafael Calado,Quality Assurance,3,10,1,0,0
-15,Rafael George,Iniciante,4,5,0,1,0
-16,Tamires Rezende,Iniciante,4,4,0,0,0
-17,Tarcisio Almeida,Iniciante,4,4,0,0,0
-18,Katilce Delgado,Iniciante,4,7,1,0,0
-19,Jorge Mariz,Iniciante,4,7,1,0,0
+,Profissionais,Funcoes,Funcoes_Num,Performance,projeto_b,projeto_c,projeto_a,Projeto 1,Projeto 2,Projeto 3,Projeto 4
+0,Marcelo Eihara,Arquiteto,0,9,0,0,1,1,0,0,1
+1,Fabio Arnaldo,Arquiteto,0,6,0,1,0,0,0,1,0
+2,João Ricardo,Arquiteto,0,8,1,0,0,0,1,0,0
+3,Washington Barbosa,Front-end,1,7,1,0,0,0,1,0,0
+4,Diego Oliveira,Front-end,1,9,0,0,1,1,0,0,1
+5,Rildo Pereira,Front-end,1,8,0,1,1,1,0,1,0
+6,Alessandre Martins,Back-end,2,9,1,0,0,0,1,0,1
+7,Morgana Leite,Back-end,2,7,1,0,0,0,1,0,0
+8,Paulo Hugo,Back-end,2,7,0,1,0,0,0,1,0
+9,Luiz Gustavo Magoga,Back-end,2,10,0,0,1,1,0,0,0
+10,Atahualpa Bastos,Quality Assurance,3,7,1,0,0,0,1,0,0
+11,Leonides Neto,Quality Assurance,3,9,0,0,0,0,0,0,1
+12,Letícia Queiroz,Quality Assurance,3,6,0,0,1,1,0,0,0
+13,Carlo Revoredo,Quality Assurance,3,6,0,1,0,0,0,1,0
+14,Rafael Calado,Quality Assurance,3,10,0,0,0,0,0,0,0
+15,Rafael George,Iniciante,4,5,0,0,0,0,0,0,1
+16,Tamires Rezende,Iniciante,4,4,1,0,0,0,1,0,0
+17,Tarcisio Almeida,Iniciante,4,4,0,0,1,1,0,0,0
+18,Katilce Delgado,Iniciante,4,7,0,0,1,1,0,0,0
+19,Jorge Mariz,Iniciante,4,7,0,0,0,0,0,0,1

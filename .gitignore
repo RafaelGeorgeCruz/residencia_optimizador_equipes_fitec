@@ -2,3 +2,4 @@
 .venv
 
 pdm.lock
+__pycache__

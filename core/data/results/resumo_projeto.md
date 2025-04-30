@@ -1,0 +1,14 @@
+## Resumo dos Currículos dos Colaboradores do Projeto
+
+Este resumo apresenta os principais pontos dos currículos dos colaboradores alocados no projeto, destacando suas habilidades técnicas e comportamentais.
+
+*   **Washington Barbosa:** Desenvolvedor Front-end experiente em criar interfaces de usuário atraentes e funcionais, otimizar o desempenho de aplicações web e desenvolver aplicações responsivas utilizando HTML, CSS, JavaScript e TypeScript. Proficiente em React, Angular, Vue.js, jQuery, Redux e Styled Components.
+*   **Tamires Rezende:** Desenvolvedora iniciante em Front-end, recém-formada em Análise e Desenvolvimento de Sistemas, com conhecimentos em HTML, CSS e JavaScript. Possui experiência em desenvolvimento de páginas web e projetos em JavaScript, além de conhecimento básico em Git e Figma.
+*   **Morgana Leite:** Desenvolvedora Back-end com experiência em desenvolvimento e manutenção de aplicações web, APIs RESTful e bancos de dados relacionais e não relacionais. Proficiente em Python, Java e Node.js, além de Django, Spring Boot e Express.js.
+*   **João Ricardo:** Arquiteto de software experiente, focado em soluções escaláveis e de alta performance, com expertise em sistemas distribuídos e computação em nuvem (AWS, Azure, GCP). Possui experiência em design e arquitetura de sistemas complexos e liderança técnica de equipes.
+*   **Leonides Neto:** Profissional de Quality Assurance com foco em sistemas de baixo nível, incluindo embarcados e drivers, com experiência em planejamento e execução de testes. Possui expertise em linguagens C/C++ e Rust, além de automação de testes com Python e Robot Framework.
+*   **Rafael George:** Recém-formado em Ciência da Computação, com paixão por desenvolvimento de software e busca por oportunidades para aplicar seus conhecimentos. Possui habilidades em Python, JavaScript, HTML, CSS, com conhecimentos básicos em Django, React, PostgreSQL e MySQL.
+
+## Impacto das Escolhas dos Colaboradores no Resultado do Projeto
+
+A seleção criteriosa dos colaboradores, com base em suas habilidades e experiências, terá um impacto significativo no resultado do projeto. A experiência de Washington Barbosa em Front-end garantirá a criação de interfaces de usuário eficientes e atraentes, enquanto a expertise de Morgana Leite em Back-end assegurará a robustez e escalabilidade da aplicação. A visão arquitetural de João Ricardo garantirá a criação de uma solução bem estruturada e de alta performance, enquanto a atuação de Leonides Neto em Quality Assurance assegurará a qualidade e confiabilidade do sistema. A participação de Tamires Rezende e Rafael George, como desenvolvedores em início de carreira, trará novas perspectivas e ideias, além de contribuir para o desenvolvimento de suas habilidades e o crescimento da equipe.

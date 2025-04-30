@@ -1,5 +1,4 @@
-
-def save_on_markdown(file_name:str, markdown_content:str) -> None:
+def save_on_markdown(file_name: str, markdown_content: str) -> None:
     try:
         with open(file_name, "w", encoding="utf-8") as file:
             file.write(markdown_content)
